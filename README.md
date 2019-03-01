@@ -8,3 +8,5 @@
 [2019-02-27](03.md)  03. Do you agree or disagree with the following statement? Parents must have strict rules to help their children to be successful.
 
 [2019-02-28](04.md)  04. Some people prefer to buy technological devices as soon as they are available to the public. Others prefer to wait until many people have used them. Which do you prefer?
+
+[2019-03-01](05.md)  05. Do you agree or disagree with the following statement? People who cannot accept criticism from others will not be successful in work.
