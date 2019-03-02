@@ -10,3 +10,5 @@
 [2019-02-28](04.md)  04. Some people prefer to buy technological devices as soon as they are available to the public. Others prefer to wait until many people have used them. Which do you prefer?
 
 [2019-03-01](05.md)  05. Do you agree or disagree with the following statement? People who cannot accept criticism from others will not be successful in work.
+
+[2019-03-02](06.md)  06. Do you agree or disagree with the following statement? The most important investment of a company is to improve the work skills of the employee.
