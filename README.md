@@ -12,3 +12,5 @@
 [2019-03-01](05.md)  05. Do you agree or disagree with the following statement? People who cannot accept criticism from others will not be successful in work.
 
 [2019-03-02](06.md)  06. Do you agree or disagree with the following statement? The most important investment of a company is to improve the work skills of the employee.
+
+[2019-03-03](07.md)  07. Do you agree or disagree with the following statement? Young people today are more likely to invest their time and efforts in improving the world than young people were in the past.
