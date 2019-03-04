@@ -14,3 +14,5 @@
 [2019-03-02](06.md)  06. Do you agree or disagree with the following statement? The most important investment of a company is to improve the work skills of the employee.
 
 [2019-03-03](07.md)  07. Do you agree or disagree with the following statement? Young people today are more likely to invest their time and efforts in improving the world than young people were in the past.
+
+[2019-03-04](08.md)  08. Do you agree or disagree with the following statement? Compared with the ability to make new friends easily, the ability to maintain friendship with a small group of people is more important and decides your happiness.
