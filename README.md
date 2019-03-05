@@ -16,3 +16,5 @@
 [2019-03-03](07.md)  07. Do you agree or disagree with the following statement? Young people today are more likely to invest their time and efforts in improving the world than young people were in the past.
 
 [2019-03-04](08.md)  08. Do you agree or disagree with the following statement? Compared with the ability to make new friends easily, the ability to maintain friendship with a small group of people is more important and decides your happiness.
+
+[2019-03-05](09.md)  09. Do you agree  or disagree with the following statement? It is important for everyone  to know about what is happening around the world even though the events have not affected our daily lives.
