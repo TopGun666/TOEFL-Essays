@@ -18,3 +18,5 @@
 [2019-03-04](08.md)  08. Do you agree or disagree with the following statement? Compared with the ability to make new friends easily, the ability to maintain friendship with a small group of people is more important and decides your happiness.
 
 [2019-03-05](09.md)  09. Do you agree  or disagree with the following statement? It is important for everyone  to know about what is happening around the world even though the events have not affected our daily lives.
+
+[2019-03-06](10.md)  10. Do you agree or disagree with the following statement? As modern life becomes more complex, it is essential for young people to have the ability to plan and organize.
