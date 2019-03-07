@@ -20,3 +20,5 @@
 [2019-03-05](09.md)  09. Do you agree  or disagree with the following statement? It is important for everyone  to know about what is happening around the world even though the events have not affected our daily lives.
 
 [2019-03-06](10.md)  10. Do you agree or disagree with the following statement? As modern life becomes more complex, it is essential for young people to have the ability to plan and organize.
+
+[2019-03-06](11.md)  11. Do you agree or disagree withe the following  statement? People often buy products not because they really need them but because others have them.
