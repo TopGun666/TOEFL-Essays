@@ -21,4 +21,6 @@
 
 [2019-03-06](10.md)  10. Do you agree or disagree with the following statement? As modern life becomes more complex, it is essential for young people to have the ability to plan and organize.
 
-[2019-03-06](11.md)  11. Do you agree or disagree withe the following  statement? People often buy products not because they really need them but because others have them.
+[2019-03-07](11.md)  11. Do you agree or disagree withe the following  statement? People often buy products not because they really need them but because others have them.
+
+[2019-03-08](12.md)  12. Which factor influences you the most when it comes to a major purchase? 1) recommendations from your friends or colleagues; 2) information from media; 3) salesman in the market.
