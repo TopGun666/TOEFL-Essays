@@ -24,3 +24,5 @@
 [2019-03-07](11.md)  11. Do you agree or disagree withe the following  statement? People often buy products not because they really need them but because others have them.
 
 [2019-03-08](12.md)  12. Which factor influences you the most when it comes to a major purchase? 1) recommendations from your friends or colleagues; 2) information from media; 3) salesman in the market.
+
+[2019-03-09](13.md)  13. Do you agree or disagree with the following statement? Rather than help children with schoolwork, parents should encourage kids to work independently.
