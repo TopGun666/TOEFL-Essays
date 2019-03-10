@@ -26,3 +26,7 @@
 [2019-03-08](12.md)  12. Which factor influences you the most when it comes to a major purchase? 1) recommendations from your friends or colleagues; 2) information from media; 3) salesman in the market.
 
 [2019-03-09](13.md)  13. Do you agree or disagree with the following statement? Rather than help children with schoolwork, parents should encourage kids to work independently.
+
+[2019-03-10](14.md)  14. Which do you prefer? Some People would like to upload pictures and other information on social networking websites while others do not like to create such records.
+
+ 
