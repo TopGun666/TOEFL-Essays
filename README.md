@@ -34,3 +34,5 @@
 [2019-03-12](16.md)  16. Do you agree or disagree with the following statement? Honesty is the most important thing to consider in deciding whom them to vote for, when you are electing a student leader for a student organization or a club.
 
 [2019-03-13](17.md)  17. Do you agree or disagree with the following statement? Young people today are more willing to help other than those in the past.
+
+[2019-03-14](18.md) 18. Do you agree or disagree withe following statement? All university students should be required to take basic science courses even if they are not in the career goal.
