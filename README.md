@@ -36,3 +36,7 @@
 [2019-03-13](17.md)  17. Do you agree or disagree with the following statement? Young people today are more willing to help other than those in the past.
 
 [2019-03-14](18.md) 18. Do you agree or disagree withe following statement? All university students should be required to take basic science courses even if they are not in the career goal.
+
+[2019-03-15](19.md)  19. Do you agree or disagree with  the following statement? People will spend less time cooking and preparing foods in twenty years than they do today.
+
+[2019-03-16](20.md)  20. Do you agree or disagree with the following statement? People should spend money on keeping pets even though they have better ways to use the money.
