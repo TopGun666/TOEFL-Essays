@@ -42,3 +42,7 @@
 [2019-03-16](20.md)  20. Do you agree or disagree with the following statement? People should spend money on keeping pets even though they have better ways to use the money.
 
 [2019-03-16](21.md)  21. Do you agree or disagree with the following statement? People should spend money on keeping pets even though they have better ways to use the money.
+
+[2019-03-17](22.md)  22. Do you agree or disagree with the following statement? The government should offer Internet access to all of the citizens at no cost.
+
+[2019-03-18](23.md)  23. Do you agree or disagree with the following statement? People should follow ambitious goals rather than realistic goals.
