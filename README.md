@@ -46,3 +46,6 @@
 [2019-03-17](22.md)  22. Do you agree or disagree with the following statement? The government should offer Internet access to all of the citizens at no cost.
 
 [2019-03-18](23.md)  23. Do you agree or disagree with the following statement? People should follow ambitious goals rather than realistic goals.
+
+[2019-03-19](24.md)  24. Do you agree or disagree with the following statement? All university students should be required to take history courses despite their majors.
+
