@@ -49,3 +49,8 @@
 
 [2019-03-19](24.md)  24. Do you agree or disagree with the following statement? All university students should be required to take history courses despite their majors.
 
+[2019-03-20](25.md)  25. If you have  a long-time friend, will continue the friendship even he or she does something you do not like?
+
+[2019-03-21](26.md)  26. Do you agree or dis agree with the following statement? The most effective way for governments to encourage energy conservation is to increase the prices of gasoline and electricity.
+
+[2019-03-22](27.md)  27. In order to attract more tourists, which should government do: to improve the safety by hiring more police or to repair old buildings and streets?
