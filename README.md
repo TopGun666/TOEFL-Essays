@@ -54,3 +54,5 @@
 [2019-03-21](26.md)  26. Do you agree or dis agree with the following statement? The most effective way for governments to encourage energy conservation is to increase the prices of gasoline and electricity.
 
 [2019-03-22](27.md)  27. In order to attract more tourists, which should government do: to improve the safety by hiring more police or to repair old buildings and streets?
+
+[2019-03-23](28.md) 28. Do you agree or disagree with the following statement? Space exploration is a waste of money.
