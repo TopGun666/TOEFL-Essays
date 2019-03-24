@@ -56,3 +56,5 @@
 [2019-03-22](27.md)  27. In order to attract more tourists, which should government do: to improve the safety by hiring more police or to repair old buildings and streets?
 
 [2019-03-23](28.md) 28. Do you agree or disagree with the following statement? Space exploration is a waste of money.
+
+[2019-03-23](29.md)  29. The school has been funding for students to participate in different types of activities, but this year, due to the lack of money, the school will fund only one activity. Which one should the school fund: sports, arts or volunteering?
