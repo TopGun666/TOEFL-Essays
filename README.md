@@ -58,3 +58,6 @@
 [2019-03-23](28.md) 28. Do you agree or disagree with the following statement? Space exploration is a waste of money.
 
 [2019-03-23](29.md)  29. The school has been funding for students to participate in different types of activities, but this year, due to the lack of money, the school will fund only one activity. Which one should the school fund: sports, arts or volunteering?
+[2019-03-24](30.md)  30. Some students have to get to school at an early hour in the morning. Some people think that start school day early is a good approach support learning, while others think that starting school day at a late hour is a good approach to support learning. Which way do you prefer?
+
+[2019-03-25](31.md)  31. High-school students are required to study many different subjects at the same time or they should student only three or four subjects at a time. Which do you prefer?
