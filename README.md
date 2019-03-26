@@ -61,3 +61,5 @@
 [2019-03-24](30.md)  30. Some students have to get to school at an early hour in the morning. Some people think that start school day early is a good approach support learning, while others think that starting school day at a late hour is a good approach to support learning. Which way do you prefer?
 
 [2019-03-25](31.md)  31. High-school students are required to study many different subjects at the same time or they should student only three or four subjects at a time. Which do you prefer?
+
+[2019-03-26](27md)  32. Do you agree or disagree with the following statement? Life today is easier and more comfortable than it was when your grandparents were children.
