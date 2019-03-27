@@ -63,3 +63,6 @@
 [2019-03-25](31.md)  31. High-school students are required to study many different subjects at the same time or they should student only three or four subjects at a time. Which do you prefer?
 
 [2019-03-26](27md)  32. Do you agree or disagree with the following statement? Life today is easier and more comfortable than it was when your grandparents were children.
+
+[2019-03-27](33.md)  33. Some people are more content with the life in the big city, while others think that they will be more satisfied to live in the village. Which do you prefer?
+
