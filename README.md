@@ -71,3 +71,5 @@
 [2019-03-29](35.md)  35. Should people be open to new ideas  and willing to change their own ideas?
 
 [2019-03-30](36.md)  36. Do you agree or disagree with the following statement? One of the best way that parents can help their children prepare for future life is to encourage them to take a part-time job.
+
+[2019-03-31](37.md)  37. A high school has decided that all students must take a  class in which they learn a practical skill. School administrators are trying to decide whether to hold a class in cooking, managing personal finances or auto repair. Which do you think the school should require students to take?Why?
